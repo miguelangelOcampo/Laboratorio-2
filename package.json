@@ -1,0 +1,25 @@
+{
+  "name": "laboratorio_2",
+  "version": "1.0.0",
+  "description": "��\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelangelOcampo/Laboratorio-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelangelOcampo/Laboratorio-2/issues"
+  },
+  "homepage": "https://github.com/miguelangelOcampo/Laboratorio-2#readme",
+  "devDependencies": {
+    "install": "^0.13.0",
+    "npm": "^11.6.3",
+    "prettier": "^3.6.2"
+  }
+}
