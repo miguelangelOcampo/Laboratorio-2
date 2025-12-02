@@ -2,9 +2,9 @@ name: CI
 
 on:
   pull_request:
-    branches: [main]
+    branches: [feature/MiguelAngelOcampo]
   push:
-    branches: [main]
+    branches: [feature/MiguelAngelOcampo]
 
 jobs:
   build:
