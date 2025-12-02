@@ -1,5 +1,5 @@
 function handleError(error) {
-  console.error("API Error:", error.message);
+  console.error('API Error:', error.message);
   return { success: false, error: error.message };
 }
 
@@ -13,4 +13,3 @@ async function fetchData(url) {
 }
 
 module.exports = { fetchData };
-
